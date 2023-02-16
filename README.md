@@ -1,8 +1,12 @@
 [![](https://supremainc.github.io/sfmdev/images/suprema.png "Suprema inc.")](https://supremainc.github.io/)
 
-## Biostar2 
+## Biostar 2 Device SDK
 ### Github repositories
-- [Biostar2 device SDK](https://github.com/supremainc/BioStar2_device_SDK)
+- [Biostar 2 Device SDK](https://github.com/supremainc/BioStar2_device_SDK)
+
+## Suprema G-SDK
+### Developer manual
+- [Suprema G-SDK](https://supremainc.github.io/g-sdk)
 
 ## SFM (Suprema Fingerprint Module)
 ### Github repositories 
